@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-Projects with a focus on using Python for data analysis.
+- Juypter notebooks containing data analysis projects with focus on Python language.
